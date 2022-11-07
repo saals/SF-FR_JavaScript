@@ -33,3 +33,4 @@
 >* Screen size `task-2.js`
 >* WebSocket, Geolocation `task-3.js`
 
+> ### Модуль 11. Тестирование `module11_homework`
